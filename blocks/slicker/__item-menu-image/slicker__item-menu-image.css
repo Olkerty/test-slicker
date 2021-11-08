@@ -1,0 +1,14 @@
+.slicker__item-menu-image {
+
+}
+
+@media all and (max-width: 400px) {
+	.slicker__item-menu-image {
+		display: none;
+	}
+}
+
+.slicker__item-menu-image:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}

@@ -1,0 +1,7 @@
+.slicker__item-labels-and-mobileicons {
+	width: 65%;
+	position: absolute;
+	justify-content: space-between;
+	display: flex;
+	flex-direction: row;
+}

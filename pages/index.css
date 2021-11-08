@@ -1,0 +1,40 @@
+@import url(../vendor/normalize/normalize.css);
+@import url(../Gothampro/stylesheet.css);
+
+@import url(../pages/slick-theme.css);
+@import url(../pages/slick.css);
+
+@import url(../blocks/slicker/slicker.css);
+
+@import url(../blocks/slicker/__navigation/slicker__navigation.css);
+@import url(../blocks/slicker/__item/slicker__item.css);
+@import url(../blocks/slicker/__item-save-button/slicker__item-save-button.css);
+@import url(../blocks/slicker/__item-rating/slicker__item-rating.css);
+@import url(../blocks/slicker/__item-prices/slicker__item-prices.css);
+@import url(../blocks/slicker/__item-old-price/slicker__item-old-price.css);
+@import url(../blocks/slicker/__item-new-price/slicker__item-new-price.css);
+@import url(../blocks/slicker/__item-new-one/slicker__item-new-one.css);
+@import url(../blocks/slicker/__item-name/slicker__item-name.css);
+@import url(../blocks/slicker/__item-labels/slicker__item-labels.css);
+@import url(../blocks/slicker/__item-image/slicker__item-image.css);
+@import url(../blocks/slicker/__item-heart/slicker__item-heart.css);
+@import url(../blocks/slicker/__item-heart/slicker__item-heart_mobile.css);
+@import url(../blocks/slicker/__item-control-text/slicker__item-control-text.css);
+@import url(../blocks/slicker/__item-button-container/slicker__item-button-container.css);
+@import url(../blocks/slicker/__item-bestseller/slicker__item-bestseller.css);
+@import url(../blocks/slicker/__header/slicker__header.css);
+@import url(../blocks/slicker/__header-container/slicker__header-container.css);
+@import url(../blocks/slicker/__container/slicker__container.css);
+@import url(../blocks/slicker/__item-mobileicons/slicker__item-mobileicons.css);
+@import url(../blocks/slicker/__arrow/slicker__arrow.css);
+@import url(../blocks/slicker/__arrow/slicker__arrow_next.css);
+@import url(../blocks/slicker/__arrow/slicker__arrow_prev.css);
+@import url(../blocks/slicker/__item-labels-and-mobileicons/slicker__item-labels-and-mobileicons.css);
+@import url(../blocks/slicker/__arrow-container/slicker__arrow-container.css);
+@import url(../blocks/slicker/__item-menu-image/slicker__item-menu-image.css);
+@import url(../blocks/slicker/__item-menu-image/slicker__item-menu-image_mobile.css);
+
+
+.test {
+  font-family: 'Gotham Pro';
+}

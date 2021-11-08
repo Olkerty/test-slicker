@@ -1,0 +1,23 @@
+.slicker__item {
+  border: 1px solid red;
+  padding: 20px;
+  background: #FFFFFF;
+  width: 270px;
+border: 1px solid #EEEEEE;
+box-sizing: border-box;
+border-radius: 5px;
+  position: relative;
+}
+
+
+@media all and (max-width: 1000px) {
+  .slicker__item  {
+    width: 247px;
+  }
+}
+
+@media all and (max-width: 400px) {
+  .slicker__item  {
+    width: 90.6vw;
+  }
+}

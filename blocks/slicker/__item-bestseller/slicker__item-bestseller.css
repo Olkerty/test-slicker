@@ -1,0 +1,17 @@
+.slicker__item-bestseller {
+  box-sizing: border-box;
+  background: #FCF4ED;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0;
+  
+  width: 100px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 15px;
+  color: #E49F62;;
+}

@@ -1,0 +1,9 @@
+.slicker__item-heart_mobile {
+display: none;
+}
+
+@media all and (max-width: 400px) {
+	.slicker__item-heart_mobile {
+		display: unset;
+	}
+}

@@ -1,0 +1,32 @@
+.slicker__item-new-one {
+  box-sizing: border-box;
+  background: #EEFCF6;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0;
+  width: fit-content;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 15px;
+  margin-right: 5px;
+  color: #3DDC97;
+}
+
+
+@media all and (max-width: 768px) {
+  .slicker__item-new-one  {
+    display: none;
+  }
+}
+
+
+@media all and (max-width: 400px) {
+  .slicker__item-new-one  {
+    display: unset;
+    margin-bottom: 5px;
+  }
+}

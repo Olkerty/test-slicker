@@ -1,0 +1,11 @@
+.slicker__item-labels {
+  
+  display: flex;
+  flex-direction: row;
+}
+
+@media all and (max-width: 400px) {
+  .slicker__item-labels {
+    flex-direction: column;
+  }
+}

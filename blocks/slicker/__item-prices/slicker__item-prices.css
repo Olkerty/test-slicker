@@ -1,0 +1,14 @@
+.slicker__item-prices {
+  display: flex;
+  flex-direction: row;
+  max-width: 90%;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+@media all and (max-width: 768px) {
+  .slicker__item-prices{
+    width: 65%;
+  }
+}

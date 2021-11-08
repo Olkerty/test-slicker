@@ -1,0 +1,5 @@
+.slicker__item-button-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

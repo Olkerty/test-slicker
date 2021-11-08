@@ -1,0 +1,38 @@
+.slicker__item-save-button {
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+
+  padding-left: 36px;
+  padding-right: 36px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border: none;
+  background: #00ADEF;
+border-radius: 5px;
+}
+
+@media all and (max-width: 1000px) {
+  .slicker__item-save-button  {
+    padding-left: 25.5px;
+    padding-right: 25.5px;
+  }
+}
+
+@media all and (max-width: 400px) {
+  .slicker__item-save-button  {
+    text-align: center;
+    line-height: 13px;
+    font-size: 12px;
+    padding-top: 16px;
+    padding-left: 95px;
+    padding-right: 95px;
+  }
+}
+
+.slicker__item-save-button:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}

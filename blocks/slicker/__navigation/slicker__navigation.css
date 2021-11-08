@@ -1,0 +1,7 @@
+.slicker__navigation {
+  display: flex;
+  margin-bottom: 25px;
+  margin-top: 26px;
+  flex-direction: row;
+  justify-content: space-between;
+}

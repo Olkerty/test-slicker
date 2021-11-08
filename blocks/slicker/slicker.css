@@ -1,0 +1,8 @@
+.slicker {
+  font-family: 'Gotham Pro', Arial, sans-serif;
+  display: flex;
+  flex-direction: row;
+  padding-right: 55px;
+  padding-left: 55px;
+  padding-bottom: 25px;
+}

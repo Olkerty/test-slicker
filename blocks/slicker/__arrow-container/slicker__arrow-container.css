@@ -1,0 +1,14 @@
+
+.slicker__arrow-container {
+  display: flex;
+  width: 58px;
+  justify-content: space-between;
+  vertical-align: center;
+  flex-direction: row;
+}
+
+@media all and (max-width: 400px) {
+  .slicker__arrow-container  {
+    display: none;
+  }
+}
