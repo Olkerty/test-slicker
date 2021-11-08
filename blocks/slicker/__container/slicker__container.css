@@ -1,4 +1,7 @@
 .slicker__container {
   display: flex;
   flex-direction: column;
+  padding-right: 55px;
+  padding-left: 55px;
+  padding-bottom: 25px;
 }
